@@ -33,7 +33,3 @@ Adaptation
 ----
 
 - VisDA: ```sh visda.sh```
-
-
-
-**Note**: We also include log files (for both linux and windows) generated with three different seeds in ```./log/{linux or windows}```
