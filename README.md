@@ -23,11 +23,11 @@ We conducted experiments on the following versions of pakages:
 
 Data Preparation
 ----
-- Please download the VisDA dataset from the official website and place in the path ``` ./data/visda-2017```.
+- Please download the [VisDA dataset](https://github.com/VisionLearningGroup/taskcv-2017-public/tree/master/classification) and place in the path ``` ./data/visda-2017```.
 
 Source Pretrained Model
 ----
-- We used the source pretrained model parameters provided in the github repository of SHOT.
+- We used the source pretrained model parameters provided in the github repository of [SHOT](https://drive.google.com/drive/folders/1Hn3MXbwQF-A6UTBZG3L3ZBiwSrxctB35).
 
 Adaptation
 ----
