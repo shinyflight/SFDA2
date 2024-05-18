@@ -6,7 +6,7 @@ SF(DA)<sup>2</sup>: Source-free Domain Adaptation Through the Lens of Data Augme
 ![overview](https://github.com/shinyflight/SLOGAN/assets/25117385/5074be12-aca2-45fb-a90a-35768d4df5af)
 
 **SF(DA)<sup>2</sup>: Source-free Domain Adaptation Through the Lens of Data Augmentation** (ICLR 2024) <br>
-Uiwon Hwang, Jonghyun Kim, Juhyun Shin, Sungroh Yoon <br>
+by [Uiwon Hwang](https://sites.google.com/view/uiwon-hwang), [Jonghyun Lee](https://scholar.google.com/citations?user=GPi5hw4AAAAJ&hl=ko), Juhyun Shin, [Sungroh Yoon](https://scholar.google.co.kr/citations?hl=ko&user=Bphl_fIAAAAJ) <br>
 
 Paper: [https://openreview.net/forum?id=kUCgHbmO11](https://openreview.net/forum?id=kUCgHbmO11)
 
