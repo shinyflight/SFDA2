@@ -1,5 +1,7 @@
 SF(DA)<sup>2</sup>: Source-free Domain Adaptation Through the Lens of Data Augmentation
 ====
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sf-da-2-source-free-domain-adaptation-through/source-free-domain-adaptation-on-visda-2017)](https://paperswithcode.com/sota/source-free-domain-adaptation-on-visda-2017?p=sf-da-2-source-free-domain-adaptation-through) 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sf-da-2-source-free-domain-adaptation-through/domain-adaptation-on-domainnet-1)](https://paperswithcode.com/sota/domain-adaptation-on-domainnet-1?p=sf-da-2-source-free-domain-adaptation-through)
 
 ![overview](https://github.com/shinyflight/SLOGAN/assets/25117385/5074be12-aca2-45fb-a90a-35768d4df5af)
 
