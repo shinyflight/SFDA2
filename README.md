@@ -35,3 +35,13 @@ Adaptation
 ----
 
 - VisDA: ```sh visda.sh```
+
+  
+## Citation 
+    @inproceedings{
+        hwang2024sfda,
+        title={{SF}({DA})\${\textasciicircum}2\$: Source-free Domain Adaptation Through the Lens of Data Augmentation},
+        author={Uiwon Hwang and Jonghyun Lee and Juhyeon Shin and Sungroh Yoon},
+        booktitle={International Conference on Learning Representations},
+        year={2024}
+    }
